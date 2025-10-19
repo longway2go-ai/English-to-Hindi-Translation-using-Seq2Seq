@@ -1,4 +1,4 @@
-# 🗣️ English-to-Hindi Translation using Seq2Seq with LSTM
+# 🗣️ English-to-Hindi Translation using Seq2Seq
 
 This project implements a simple yet effective **Sequence-to-Sequence (Seq2Seq)** neural machine translation (NMT) model using **LSTM encoder-decoder architecture** to translate English sentences into Hindi. It is built in PyTorch and is designed for educational purposes and experimentation.
 
